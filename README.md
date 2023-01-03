@@ -1,0 +1,2 @@
+# Bash-Encrypter
+Bash Encrypter 🗃️
